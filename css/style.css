@@ -21,11 +21,13 @@ body {
   text-transform: capitalize;
   font-size: 24px;
   color: indianred;
-  
+
 }
 
 .splash-subtitle {
   font-style: italic;
+  font-size: 20px;
+  
 }
 
 .subtitle-band {
