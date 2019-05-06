@@ -20,6 +20,8 @@ body {
 .splash-title {
   text-transform: capitalize;
   font-size: 24px;
+  color: indianred;
+  
 }
 
 .splash-subtitle {
