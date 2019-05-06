@@ -1,0 +1,38 @@
+/*Global*/
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+/*splash*/
+
+.splash {
+  font-family: arial;
+}
+
+.splash-title {
+  text-transform: capitalize;
+  font-size: 24px;
+}
+
+.splash-subtitle {
+  font-style: italic;
+}
+
+.subtitle-band {
+  font-weight: bold;
+}
+
+/*Song*/
+
+.song {
+  font-family: courier;
+
+}
