@@ -1,0 +1,11 @@
+NU-HTML-CHECKER
+
+nu-html-checker .html
+
+UTOPREFIXER-CLI
+
+autoprefixer-cli -o style.prefixed.css css/style.css
+
+BROWSER-SYNC
+
+node_modules/.bin/browser-sync start --server --files "css/*.css" "*.html"
